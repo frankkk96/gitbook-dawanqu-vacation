@@ -1,4 +1,5 @@
 ---
+description: 作者：frank
 cover: .gitbook/assets/天文台.jpeg
 coverY: -46
 layout:

@@ -1,4 +1,5 @@
 ---
+description: 作者：frank
 cover: .gitbook/assets/中山影视城的教堂.jpeg
 coverY: -253
 layout:

@@ -1,4 +1,5 @@
 ---
+description: 作者：frank
 cover: .gitbook/assets/让子弹飞的鹅城.jpeg
 coverY: -126
 layout:

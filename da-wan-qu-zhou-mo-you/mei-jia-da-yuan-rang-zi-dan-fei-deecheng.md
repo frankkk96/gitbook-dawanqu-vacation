@@ -1,6 +1,6 @@
 ---
 description: 作者：frank
-cover: .gitbook/assets/让子弹飞的鹅城.jpeg
+cover: ../.gitbook/assets/让子弹飞的鹅城.jpeg
 coverY: -126
 layout:
   cover:
@@ -38,7 +38,7 @@ layout:
 
 其实整个地方很小，一下就逛完了，专门跑过来看一眼可能会有一点失望，但是作为看了很多遍《让子弹飞》的影迷，来这里看一眼也算是圆梦了。现在整个大院的变化也挺大的，有的地方也还在装修，其实很难找到《让子弹飞》里面一模一样的场景了，我拍了个对比图供大家参考～
 
-<figure><img src=".gitbook/assets/鹅城1.jpg" alt=""><figcaption><p>十余年过去，几乎找不到原片里面的感觉了</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/鹅城1.jpg" alt=""><figcaption><p>十余年过去，几乎找不到原片里面的感觉了</p></figcaption></figure>
 
 ## 详细攻略
 

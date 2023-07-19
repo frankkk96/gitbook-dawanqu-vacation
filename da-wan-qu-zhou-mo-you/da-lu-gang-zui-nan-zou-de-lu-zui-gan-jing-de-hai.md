@@ -1,6 +1,6 @@
 ---
 description: 作者：frank
-cover: .gitbook/assets/大鹿港灯塔.jpg
+cover: ../.gitbook/assets/大鹿港灯塔.jpg
 coverY: 93
 layout:
   cover:
@@ -38,25 +38,25 @@ layout:
 
 大鹿港的风景整体类似于东西涌穿越，都是半山半海的美景，不过这边的人会更少一些，海水也会更干净，在穿越途中还会路过大鹿港灯塔，在这里拍照很好看，放几张队友用单反拍的美照～
 
-<figure><img src=".gitbook/assets/大鹿港1.jpg" alt=""><figcaption><p>这里的水和沙滩都特别干净</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/大鹿港1.jpg" alt=""><figcaption><p>这里的水和沙滩都特别干净</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/大鹿港2.jpg" alt=""><figcaption><p>海岸线和灯塔，一路上的风景都很美</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/大鹿港2.jpg" alt=""><figcaption><p>海岸线和灯塔，一路上的风景都很美</p></figcaption></figure>
 
 ### 2、挑战自我
 
 从徒步的角度来看，我们走的这条路线是穿越柚柑湾-->大鹿港-->头崖-->西涌，整条路线包括海岸线+溯溪+山脊线，整体难度较大（有的路线是从西贡村反向穿越，爬升会少很多，且没有溯溪简单很多）。这条路线的两步路轨迹如下图，爬升只有500多，但几乎有一半以上是溯溪而上，非常难走
 
-<figure><img src=".gitbook/assets/大鹿港3.jpeg" alt="" width="188"><figcaption><p>看似简单，实则非常难走</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/大鹿港3.jpeg" alt="" width="188"><figcaption><p>看似简单，实则非常难走</p></figcaption></figure>
 
 海岸线的路上会经过各种大石头，有的地方会很高（恐高症十分不友好）；溯溪而上的路比海岸线更难走，各种青苔水坑，非常的滑；最后的山脊线和下山全程吊着一口气走完了，勉强在天黑的时候到达了山脚下，这大概是我最艰难的一次徒步。
 
-<figure><img src=".gitbook/assets/大鹿港4.jpg" alt=""><figcaption><p>全程需要很多攀爬，对体力和平衡能力要求很高</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/大鹿港4.jpg" alt=""><figcaption><p>全程需要很多攀爬，对体力和平衡能力要求很高</p></figcaption></figure>
 
 ### 3、山顶日落
 
 在我到达山顶的时候，已经没有力气来欣赏日落了，不过队友在山顶拍了一些美照，给大家分享一下～
 
-<figure><img src=".gitbook/assets/大鹿港5.jpg" alt=""><figcaption><p>右图是海上漂浮的金光，第一次亲眼所见的时候很惊艳</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/大鹿港5.jpg" alt=""><figcaption><p>右图是海上漂浮的金光，第一次亲眼所见的时候很惊艳</p></figcaption></figure>
 
 ## 详细攻略
 

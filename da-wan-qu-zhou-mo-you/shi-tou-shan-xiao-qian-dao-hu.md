@@ -1,6 +1,6 @@
 ---
 description: 作者：frank
-cover: .gitbook/assets/狮头山顶小千岛湖.jpeg
+cover: ../.gitbook/assets/狮头山顶小千岛湖.jpeg
 coverY: -129
 layout:
   cover:
@@ -38,13 +38,13 @@ layout:
 
 登上狮头山顶，可以俯瞰到一片很像千岛湖的景观，在中山市区可以看到这样的景观还是挺意外的，如果在附近的话值得来看一眼
 
-<figure><img src=".gitbook/assets/狮头山1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/狮头山1.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 2、树林中的爬升
 
 这段登山的路挺有特点的，需要穿过光秃秃的树林，放张照片大家感受一下，我个人挺喜欢这样的登山路
 
-<figure><img src=".gitbook/assets/狮头山的上山路.jpeg" alt="" width="563"><figcaption><p>很长一段路都是这样的，在别的地方很少见这样的登山路</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/狮头山的上山路.jpeg" alt="" width="563"><figcaption><p>很长一段路都是这样的，在别的地方很少见这样的登山路</p></figcaption></figure>
 
 ## 详细攻略
 

@@ -1,6 +1,6 @@
 ---
 description: 作者：frank
-cover: .gitbook/assets/塘朗山日落.jpeg
+cover: ../.gitbook/assets/塘朗山日落.jpeg
 coverY: -276.0853333333333
 layout:
   cover:
@@ -40,7 +40,7 @@ layout:
 
 放几张近几天拍的照片吧，开阔的视野和绝美的夕阳日落足以让人的疲倦一扫而光。
 
-<figure><img src=".gitbook/assets/塘朗山1.jpg" alt=""><figcaption><p>都是在同一天拍的，山顶视野很开阔，可以看完日落再看看深圳城区的夜景</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/塘朗山1.jpg" alt=""><figcaption><p>都是在同一天拍的，山顶视野很开阔，可以看完日落再看看深圳城区的夜景</p></figcaption></figure>
 
 ## 详细攻略
 

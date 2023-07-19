@@ -1,6 +1,6 @@
 ---
 description: 作者：frank
-cover: .gitbook/assets/中山影视城的教堂.jpeg
+cover: ../.gitbook/assets/中山影视城的教堂.jpeg
 coverY: -253
 layout:
   cover:
@@ -38,8 +38,8 @@ layout:
 
 在影视城最适合的事情就是换装拍照了，在一个影视城里面集合了很多不同风格特色的建筑，可以在一个地方拍出很多不同风格的照片，里面有很多租赁服装的地方，非常适合女生来拍艺术照（很多带着单反来给妹子拍照的），随手拍了一点照片供参考，更多的美照可以在小红书上搜一下～
 
-<figure><img src=".gitbook/assets/影视城1.jpg" alt=""><figcaption><p>西式的教堂</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/影视城1.jpg" alt=""><figcaption><p>西式的教堂</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/影视城2.jpg" alt=""><figcaption><p>中式古风的街道</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/影视城2.jpg" alt=""><figcaption><p>中式古风的街道</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/影视城3.jpg" alt=""><figcaption><p>美式唐人街和日式的庭院</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/影视城3.jpg" alt=""><figcaption><p>美式唐人街和日式的庭院</p></figcaption></figure>

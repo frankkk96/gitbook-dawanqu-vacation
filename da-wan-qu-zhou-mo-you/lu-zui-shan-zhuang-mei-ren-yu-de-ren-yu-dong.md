@@ -1,6 +1,6 @@
 ---
 description: 作者：frank
-cover: .gitbook/assets/杨梅坑的人鱼洞.jpeg
+cover: ../.gitbook/assets/杨梅坑的人鱼洞.jpeg
 coverY: -260
 layout:
   cover:
@@ -38,31 +38,31 @@ layout:
 
 站在鹿嘴山庄的悬崖边，可以望到对面一望无际的大海，视野非常开阔。站在悬崖边听着海水拍打礁石的声音，遥望着一望无际的大海，可以让整个人都放松下来。
 
-<figure><img src=".gitbook/assets/鹿嘴山庄1 (1).jpg" alt=""><figcaption><p>海边喝椰子，太舒服</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/鹿嘴山庄1 (1).jpg" alt=""><figcaption><p>海边喝椰子，太舒服</p></figcaption></figure>
 
 ### 2、《美人鱼》中的人鱼洞
 
 这里是周星驰《美人鱼》电影中人鱼洞的取景地，现在是个比较网红的景点，推荐大家没来过的话可以来看一眼，还是非常漂亮的
 
-<figure><img src=".gitbook/assets/鹿嘴山庄2.jpg" alt=""><figcaption><p>左边是傍晚来拍的，右边是白天来拍的</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/鹿嘴山庄2.jpg" alt=""><figcaption><p>左边是傍晚来拍的，右边是白天来拍的</p></figcaption></figure>
 
 ### 3、海滨绿道
 
 从杨梅坑前往鹿嘴山庄会经过一条绿道，是去年底才刚刚修好的，目前只能景区的观光车和步行通过，如果时间体力充足的话建议走走看（全长5km，需要走1小时左右），一路看看海也不错～
 
-<figure><img src=".gitbook/assets/鹿嘴山庄3 (1).png" alt=""><figcaption><p>有很多路口可以下去到海边，很适合慢慢散步</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/鹿嘴山庄3 (1).png" alt=""><figcaption><p>有很多路口可以下去到海边，很适合慢慢散步</p></figcaption></figure>
 
 ### 4、海上快艇
 
 如果不想走路前往的话，可以坐快艇，个人觉得海上快艇还是很值得体验一下的，很刺激，一路的风景也不错
 
-<figure><img src=".gitbook/assets/鹿嘴山庄5.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/鹿嘴山庄5.JPG" alt=""><figcaption></figcaption></figure>
 
 ### 5、海景民宿
 
 如果想在这边多玩一下的话，建议可以在杨梅坑找个民宿住一下（图中的民宿周五晚约¥500+），这样会比较休闲一点，停车也会方便许多，并且可以早起多在大鹏半岛玩一些地方。（曾经在海景民宿面朝大海写过代码，也是很神奇的体验了
 
-<figure><img src=".gitbook/assets/鹿嘴山庄7.jpg" alt=""><figcaption><p>两次在这里住都是带了电脑来的。。。</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/鹿嘴山庄7.jpg" alt=""><figcaption><p>两次在这里住都是带了电脑来的。。。</p></figcaption></figure>
 
 ## 详细攻略
 

@@ -1,6 +1,6 @@
 ---
 description: 作者：frank
-cover: .gitbook/assets/鸡公岭.jpeg
+cover: ../.gitbook/assets/鸡公岭.jpeg
 coverY: 68
 layout:
   cover:
@@ -38,14 +38,14 @@ layout:
 
 鸡公岭的风景很像武功山，都是高山草甸，这里无须多言，放一些照片供大家参考下～
 
-<figure><img src=".gitbook/assets/鸡公岭1.jpg" alt=""><figcaption><p>队友用单反拍的美照</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/鸡公岭1.jpg" alt=""><figcaption><p>队友用单反拍的美照</p></figcaption></figure>
 
 从登山徒步的角度来看，鸡公岭全程7km，爬升大约600m左右，强度不算太大，比杯灵双渡简单许多，稍有运动基础都可以冲，但一定要注意防中暑（轨迹可两步路搜索：鸡公岭）
 
-<figure><img src=".gitbook/assets/鸡公岭4.jpeg" alt="" width="188"><figcaption><p>比较简单的一条路线</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/鸡公岭4.jpeg" alt="" width="188"><figcaption><p>比较简单的一条路线</p></figcaption></figure>
 
 ### 2、从对岸遥望深圳
 
 和杯灵双渡一样，在鸡公岭上也能遥望对岸的深圳，平安大厦尤为显眼
 
-<figure><img src=".gitbook/assets/鸡公岭3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/鸡公岭3.jpg" alt=""><figcaption></figcaption></figure>

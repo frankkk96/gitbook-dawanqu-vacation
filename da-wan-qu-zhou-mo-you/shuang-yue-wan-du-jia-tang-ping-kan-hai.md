@@ -1,6 +1,6 @@
 ---
 description: 作者：frank
-cover: .gitbook/assets/双月湾阳台.jpeg
+cover: ../.gitbook/assets/双月湾阳台.jpeg
 coverY: -386.1333333333333
 layout:
   cover:
@@ -37,25 +37,25 @@ layout:
 
 整个旅行中最喜欢的部分就是在民宿的阳台上看海了，买上零食和冰可乐，与身边的人坐在阳台的沙滩椅上看着下面的沙滩和一望无际的大海，海风将整个人的疲倦一扫而光，或许你会跟我一样，希望时间就定格于此了。更惊喜的是，在第二天醒来可以透过阳台看到从海平面升起的太阳，随着太阳从小亮点变成红日，周围的温度逐渐升高，天色也变亮了起来，不需要看手机就能感受到时间流动的感觉会让人流连忘返。
 
-<figure><img src=".gitbook/assets/双月湾1.jpg" alt=""><figcaption><p>两张图都是在民宿阳台拍的</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/双月湾1.jpg" alt=""><figcaption><p>两张图都是在民宿阳台拍的</p></figcaption></figure>
 
 ### 2、在沙滩放烟花+吃烧烤
 
 在来这里之前，沙滩放烟花是我从未设想的，因为我的印象中景区海边不会允许这样的污染（但实际上双月湾的沙滩还是比较干净的）。我常觉得海边的夜晚应该是宁静的，在夜色中只会有海浪的声音，给人与世隔绝的错觉。但双月湾的沙滩是很热闹的，很多人在沙滩上嬉笑打闹，有放烟花的、撸串喝酒的、团建的等等，事实上夜晚沙滩上的市井感会让人有一种过春节的满足感，我相信很多人会和我一样，在那一瞬间会有“等有时间一定要带父母来一次”的想法。
 
-<figure><img src=".gitbook/assets/双月湾2.jpg" alt=""><figcaption><p>左图是面向大海的大烟花，右图是一家公司的团建，在沙滩吃自助餐</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/双月湾2.jpg" alt=""><figcaption><p>左图是面向大海的大烟花，右图是一家公司的团建，在沙滩吃自助餐</p></figcaption></figure>
 
 ### 3、观景台上遥望整个双月湾
 
 在双月湾的时候偶然发现了这个观景台的存在，在登上山顶之后，终于明白为什么双月湾会叫双月湾，两侧的海岸线都像弯弯的月亮，中间只有一条狭长的通道。手机地图上可以清晰的看出来，但没想到在山顶也能同时将两轮弯月尽收眼底，属于旅行中的意外惊喜了。
 
-<figure><img src=".gitbook/assets/双月湾3.jpg" alt=""><figcaption><p>左图是山顶拍的，右图是苹果地图上的形状</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/双月湾3.jpg" alt=""><figcaption><p>左图是山顶拍的，右图是苹果地图上的形状</p></figcaption></figure>
 
 ### 4、不太贵的海鲜（相比深圳）
 
 由于双月湾附近海鲜餐厅实在太多，内卷严重，因此整体的价格相比深圳都会便宜不少。不过我没吃太多，海鲜质量也不太能品鉴出来，个人觉得还算实惠，放一个美团的团购大家感受一下。
 
-<figure><img src=".gitbook/assets/双月湾4 (1).jpg" alt="" width="375"><figcaption><p>这个套餐的团购价是66.8元。。。像这样的套餐美团还有很多</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/双月湾4 (1).jpg" alt="" width="375"><figcaption><p>这个套餐的团购价是66.8元。。。像这样的套餐美团还有很多</p></figcaption></figure>
 
 ### 5、其他看上去不错，但我没去体验的
 

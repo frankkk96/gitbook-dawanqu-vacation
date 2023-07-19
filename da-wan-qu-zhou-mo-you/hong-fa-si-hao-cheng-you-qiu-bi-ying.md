@@ -1,6 +1,6 @@
 ---
 description: 作者：frank
-cover: .gitbook/assets/弘法寺1.jpeg
+cover: ../.gitbook/assets/弘法寺1.jpeg
 coverY: -39
 layout:
   cover:
@@ -46,17 +46,17 @@ _弘法寺寺坐东南，朝西北，依山拾级而建。建筑面积三万余�
 
 让我印象最深刻的，就是这块“有求必应”的牌子
 
-<figure><img src=".gitbook/assets/弘法寺1.jpeg" alt=""><figcaption><p>有需求的朋友可以来试试</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/弘法寺1.jpeg" alt=""><figcaption><p>有需求的朋友可以来试试</p></figcaption></figure>
 
 寺庙里面还有很多卖祈福物件的地方，各种有趣的小东西，价格小贵。也有免费的小卡片可以在自助机器上扫二维码领取。（商店的工作人员很多是来做义工的人，时间是一周左右，有兴趣的朋友可以找时间去体验一下～）
 
-<figure><img src=".gitbook/assets/弘法寺2.jpg" alt=""><figcaption><p>祝大家都能福顺平安</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/弘法寺2.jpg" alt=""><figcaption><p>祝大家都能福顺平安</p></figcaption></figure>
 
 ### 2、植物园看花
 
 弘法寺位于仙湖植物园里面最深处，在前往弘法寺的路上会从仙湖植物园穿过，一路上会有各种花花草草，感兴趣的朋友可以多逛逛，我去的那天人比较多就没怎么逛，也没拍照片了，放几张网上的照片大家参考下
 
-<figure><img src=".gitbook/assets/弘法寺3.jpg" alt=""><figcaption><p>看上去还是不错的，天气好的时候可以多逛下</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/弘法寺3.jpg" alt=""><figcaption><p>看上去还是不错的，天气好的时候可以多逛下</p></figcaption></figure>
 
 ## 详细攻略
 

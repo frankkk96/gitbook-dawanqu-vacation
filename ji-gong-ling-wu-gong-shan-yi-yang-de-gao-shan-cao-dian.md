@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/鸡公岭.jpeg
+coverY: 68
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 鸡公岭---武功山一样的高山草甸
 
 ## 概况

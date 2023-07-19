@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/高启强吃面的地方.jpeg
+coverY: 81
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 三十三墟街---《狂飙》拍摄地
 
 概况

@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/梅沙尖上盐田港.jpeg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 梅沙尖---俯瞰盐田港
 
 ## 概况

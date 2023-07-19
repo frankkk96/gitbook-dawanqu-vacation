@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/让子弹飞的鹅城.jpeg
+coverY: -126
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 梅家大院---《让子弹飞》的鹅城
 
 ## 概况

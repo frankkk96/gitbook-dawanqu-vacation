@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/红树湾公园的日落2 (1).jpeg
+coverY: -162.176
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 红树林公园---看太阳沉入海平面
 
 ## 概况

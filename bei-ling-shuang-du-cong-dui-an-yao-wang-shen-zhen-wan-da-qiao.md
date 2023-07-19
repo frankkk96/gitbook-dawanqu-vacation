@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/杯灵双渡.png
+coverY: 70
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 杯灵双渡---从对岸遥望深圳湾大桥
 
 ## 概况

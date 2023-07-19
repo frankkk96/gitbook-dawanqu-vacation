@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/大鹿港灯塔.jpg
+coverY: 93
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 大鹿港---最难走的路，最干净的海
 
 ## 概况

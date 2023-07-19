@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/中山影视城的教堂.jpeg
+coverY: -253
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 中山影视城---换装拍照的好地方
 
 ## 概况

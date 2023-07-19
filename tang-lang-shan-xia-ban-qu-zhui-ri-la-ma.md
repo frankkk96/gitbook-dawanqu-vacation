@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/塘朗山日落.jpeg
+coverY: -276.0853333333333
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 塘朗山---下班去追日落吗
 
 ## 概况

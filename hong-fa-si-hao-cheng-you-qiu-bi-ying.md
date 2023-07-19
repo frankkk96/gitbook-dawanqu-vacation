@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/弘法寺1.jpeg
+coverY: -39
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 弘法寺---号称“有求必应”
 
 ## 祝大家概况

@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/大湾区一号海上夕阳.jpeg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 大湾区一号---游轮上听歌看海
 
 ## 概况

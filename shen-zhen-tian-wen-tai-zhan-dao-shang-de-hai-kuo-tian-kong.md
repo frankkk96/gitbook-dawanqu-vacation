@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/天文台.jpeg
+coverY: -46
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 深圳天文台---栈道上的海阔天空
 
 ## 概况

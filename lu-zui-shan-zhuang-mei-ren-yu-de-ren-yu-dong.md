@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/杨梅坑的人鱼洞.jpeg
+coverY: -260
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 鹿嘴山庄---《美人鱼》的人鱼洞
 
 海边概况

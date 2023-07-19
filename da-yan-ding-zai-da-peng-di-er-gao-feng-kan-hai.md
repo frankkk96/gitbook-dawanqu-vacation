@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/大雁顶 (1).jpeg
+coverY: -106.18666666666665
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 大雁顶---在大鹏第二高峰看海
 
 ## 概况

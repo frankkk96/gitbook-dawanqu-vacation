@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/狮头山顶小千岛湖.jpeg
+coverY: -129
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 狮头山---小千岛湖
 
 ## 概况

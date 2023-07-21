@@ -50,3 +50,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/丫髻山3.jpg" alt=""><figcaption></figcaption></figure>
 
+## 详细攻略
+
+1. 坐车、或开车直接导航到“丫髻山公园”即可（周围停车很方便）
+2. 一路跟随人群向上走，到达山顶后原路返回

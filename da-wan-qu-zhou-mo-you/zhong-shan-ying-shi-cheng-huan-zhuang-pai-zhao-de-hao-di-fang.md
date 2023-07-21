@@ -43,3 +43,13 @@ layout:
 <figure><img src="../.gitbook/assets/影视城2.jpg" alt=""><figcaption><p>中式古风的街道</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/影视城3.jpg" alt=""><figcaption><p>美式唐人街和日式的庭院</p></figcaption></figure>
+
+## 详细攻略
+
+### 需要提前准备的
+
+* 门票：在美团搜索“中山影视城”（成人票¥60）
+
+### 行程安排
+
+1. 导航前往“中山影视城”即可，周围有停车场很方便

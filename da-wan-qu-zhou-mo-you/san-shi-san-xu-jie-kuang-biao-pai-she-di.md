@@ -44,3 +44,6 @@ layout:
 
 <figure><img src="../.gitbook/assets/狂飙2.jpg" alt=""><figcaption><p>告诉老默，我想吃水果了</p></figcaption></figure>
 
+## 详细攻略
+
+1. 坐车、或开车直接导航到“三十三墟街”即可（注意周围可能人比较多，也比较堵车，难找停车位，可以停在附近然后步行过去）

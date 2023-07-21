@@ -26,7 +26,8 @@
 ## 离职后的远游
 
 * [西藏之旅](li-zhi-hou-de-yuan-you/xi-cang-zhi-lv/README.md)
-  * [day0---准备与出发](li-zhi-hou-de-yuan-you/xi-cang-zhi-lv/day0-zhun-bei-yu-chu-fa.md)
+  * [出发---注意事项](li-zhi-hou-de-yuan-you/xi-cang-zhi-lv/chu-fa-zhu-yi-shi-xiang.md)
+  * [大昭寺 --- 拉萨的信仰中心](li-zhi-hou-de-yuan-you/xi-cang-zhi-lv/da-zhao-si-la-sa-de-xin-yang-zhong-xin.md)
 
 ## 未完待续
 

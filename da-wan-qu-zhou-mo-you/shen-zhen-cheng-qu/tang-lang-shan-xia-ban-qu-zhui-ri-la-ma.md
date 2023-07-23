@@ -1,6 +1,6 @@
 ---
 description: 作者：frank
-cover: ../.gitbook/assets/塘朗山日落.jpeg
+cover: ../../.gitbook/assets/塘朗山日落.jpeg
 coverY: -276.0853333333333
 layout:
   cover:
@@ -40,7 +40,7 @@ layout:
 
 放几张近几天拍的照片吧，开阔的视野和绝美的夕阳日落足以让人的疲倦一扫而光。
 
-<figure><img src="../.gitbook/assets/塘朗山1.jpg" alt=""><figcaption><p>都是在同一天拍的，山顶视野很开阔，可以看完日落再看看深圳城区的夜景</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/塘朗山1.jpg" alt=""><figcaption><p>都是在同一天拍的，山顶视野很开阔，可以看完日落再看看深圳城区的夜景</p></figcaption></figure>
 
 ## 详细攻略
 
@@ -55,4 +55,4 @@ layout:
 ## 拓展体验
 
 * 到达山顶后从梅林水库下山，会走过一条从南山横穿到福田的路线，想挑战体力的可以尝试，后续会补上这部分攻略
-* 银梅塘茶穿越：横穿银湖山-->梅林后山-->塘朗山-->茶光，几乎横穿整个深圳市区，详情请参考[这篇攻略](../wei-wan-dai-xu/yin-mei-tang-cha-zai-shan-zhong-heng-chuan-shen-zhen-zhu-cheng.md)
+* 银梅塘茶穿越：横穿银湖山-->梅林后山-->塘朗山-->茶光，几乎横穿整个深圳市区，详情请参考[这篇攻略](yin-mei-tang-cha-wei-wan-dai-xu-zai-shan-zhong-heng-chuan-shen-zhen-zhu-cheng.md)

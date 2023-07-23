@@ -1,6 +1,6 @@
 ---
 description: 作者：frank
-cover: ../.gitbook/assets/红树湾公园的日落2 (1).jpeg
+cover: ../../.gitbook/assets/红树湾公园的日落2 (1).jpeg
 coverY: -162.176
 layout:
   cover:
@@ -38,7 +38,7 @@ layout:
 
 宝安红树湾公园是深圳市区最佳日落观景点之一，透过广深沿江高速眺望远处的日落，拍出来的照片非常好看，这里有很多人带着单反来拍日落，放两张我用手机拍的日落。
 
-<figure><img src="../.gitbook/assets/红树林1.jpg" alt=""><figcaption><p>两张是在不同时间地点拍的，这里的日落值得亲眼一见</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/红树林1.jpg" alt=""><figcaption><p>两张是在不同时间地点拍的，这里的日落值得亲眼一见</p></figcaption></figure>
 
 ## 详细攻略
 

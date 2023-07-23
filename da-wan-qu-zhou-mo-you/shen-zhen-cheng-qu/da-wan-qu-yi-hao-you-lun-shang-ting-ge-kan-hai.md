@@ -1,6 +1,6 @@
 ---
 description: 作者：frank
-cover: ../.gitbook/assets/大湾区一号海上夕阳.jpeg
+cover: ../../.gitbook/assets/大湾区一号海上夕阳.jpeg
 coverY: 0
 layout:
   cover:
@@ -38,13 +38,13 @@ layout:
 
 坐游轮在海上看日落，和在公园看日落最大的区别在于船是运动的，景色是在不断变换的，日落的背景墙可以是海平面、一个小岛、一艘邮轮、甚至是港珠澳大桥，能够在一个地方同时体验到多种景色的感觉是无比快乐的
 
-<figure><img src="../.gitbook/assets/大湾区1.jpg" alt=""><figcaption><p>我去的两次云层都比较厚，没有看到很明显的日落，但是云层也很好看，右边两张是港珠澳大桥</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/大湾区1.jpg" alt=""><figcaption><p>我去的两次云层都比较厚，没有看到很明显的日落，但是云层也很好看，右边两张是港珠澳大桥</p></figcaption></figure>
 
 ### 2、甲板上的海风音乐会
 
 海风音乐会其实就是甲板上的乐队表演，可以坐在露天甲板上，喝着啤酒看乐队演唱流行歌曲（周杰伦、五月天等等），很适合放松心情
 
-<figure><img src="../.gitbook/assets/大湾区3.jpg" alt=""><figcaption><p>无论是白天启程、或者是晚上的返航都有音乐</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/大湾区3.jpg" alt=""><figcaption><p>无论是白天启程、或者是晚上的返航都有音乐</p></figcaption></figure>
 
 ### 3、船上的魔术表演
 
@@ -54,13 +54,13 @@ layout:
 
 这个应该是游轮的主要卖点之一，在游轮到达港珠澳大桥附近时，工作人员会用广播提醒游客前往甲板，然后游轮从港珠澳大桥下缓缓穿桥而过，广播伴随着《歌唱祖国》作为背景音乐，对港珠澳大桥做详细的介绍，很适合带家里长辈来体验下，情怀拉满了
 
-<figure><img src="../.gitbook/assets/大湾区4.jpg" alt=""><figcaption><p>现场感受还是会很震撼</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/大湾区4.jpg" alt=""><figcaption><p>现场感受还是会很震撼</p></figcaption></figure>
 
 ### 5、蛇口港夜景
 
 返航回到蛇口港的时候已经是晚上，这时候港口的灯全部亮起来了，沿着返航的航线一路近观蛇口港的夜景也是很不错的体验
 
-<figure><img src="../.gitbook/assets/大湾区5.jpg" alt=""><figcaption><p>夜晚还繁忙的蛇口港</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/大湾区5.jpg" alt=""><figcaption><p>夜晚还繁忙的蛇口港</p></figcaption></figure>
 
 ## 详细攻略
 

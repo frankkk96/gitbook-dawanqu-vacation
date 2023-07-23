@@ -1,6 +1,6 @@
 ---
 description: 作者：frank
-cover: ../.gitbook/assets/天文台.jpeg
+cover: ../../.gitbook/assets/天文台.jpeg
 coverY: -46
 layout:
   cover:
@@ -38,13 +38,13 @@ layout:
 
 以前看到天文望远镜最多的地方是小学的课外读本上，对这个小圆球印象特别深刻，没想到有机会能近观一下（也可以在公众号预约去天文台内部参观），看过《三体》之后又能找到一点红岸基地的感觉了hhh
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>好像有点红岸基地的感觉？</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>好像有点红岸基地的感觉？</p></figcaption></figure>
 
 ### 2、栈道上的海阔天空
 
 这条栈道的视野极好，一大片海尽收眼底。站在栈道上，无论是面向大海的开阔，还是面相天文台的山坡，或者是面向两侧的半山半海，景色都是极美的，我在去过一次之后一直念念不忘，后面又去了很多次。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>在栈道上看风景，完全没有死角，无论哪个角度都很美</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>在栈道上看风景，完全没有死角，无论哪个角度都很美</p></figcaption></figure>
 
 ## 详细攻略
 

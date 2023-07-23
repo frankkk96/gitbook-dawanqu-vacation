@@ -1,6 +1,6 @@
 ---
 description: 作者：frank
-cover: ../.gitbook/assets/东西涌7.jpeg
+cover: ../../.gitbook/assets/东西涌7.jpeg
 coverY: 0
 layout:
   cover:
@@ -36,29 +36,29 @@ layout:
 
 东西涌海岸线被《中国国家地理》评为中国最美八大海岸线之一，就个人体验来说确实很美，半山半海的景色实在令人心醉，在来之前我没想过在深圳这样的大都市还有这么原生态的山海，整个路上几乎没有商业化的痕迹，海水十分清澈。不多说了，上几张图片吧（iPhone 12mini 直出，亲眼所见会比照片好看许多），非常值得去亲身体验一下。
 
-<figure><img src="../.gitbook/assets/东西涌1.jpg" alt=""><figcaption><p>照片都是徒步路上随手一拍，无修图无滤镜，身临其境会更加震撼</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/东西涌1.jpg" alt=""><figcaption><p>照片都是徒步路上随手一拍，无修图无滤镜，身临其境会更加震撼</p></figcaption></figure>
 
 ### 2、挑战自我的成就感
 
 这条路线并非旅游路线，而是一条原生态的徒步穿越路线，虽然是入门级的路线，但是对于没有徒步经验的人来说还是有不小的挑战。除了长时间徒步（约5小时左右）在体力上的挑战之外，路线也比较难走，需要在海岸线上的大礁石上爬上爬下，抓着绳索铁链上下悬崖等等。对于徒步小白来说，完整走完这条路线还是颇有成就感的。
 
-<figure><img src="../.gitbook/assets/东西涌3.jpg" alt=""><figcaption><p>大部分路都是左图的大石头，走起来要格外小心。会有几个右图这样的悬崖，需要抓着锁链下去</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/东西涌3.jpg" alt=""><figcaption><p>大部分路都是左图的大石头，走起来要格外小心。会有几个右图这样的悬崖，需要抓着锁链下去</p></figcaption></figure>
 
 ### 3、在悬崖边听电吉他弹唱
 
 在徒步过程中，除了美景和沿途的补给点之外，最令我感动的就是悬崖边的弹唱歌手了。在精疲力尽的时候，顺着海风听见前方传来《海阔天空》的电吉他弹唱，或许只有身临其境才能体验到那种感动了，这也是整条路线中我最惊喜的一个点了，驻足听了很久才愿意接着往前走。当时在疫情期间快艇不能出海，歌手的设备都是用一块板子从海上漂过来的，属实有点浪漫了。
 
-<figure><img src="../.gitbook/assets/东西涌4.jpg" alt=""><figcaption><p>我们是沿着左图的海岸线走到右图的悬崖边，听到远处的歌声真的无比惊喜</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/东西涌4.jpg" alt=""><figcaption><p>我们是沿着左图的海岸线走到右图的悬崖边，听到远处的歌声真的无比惊喜</p></figcaption></figure>
 
 ### 4、近观深圳天文台
 
 在东西涌穿越路线靠近西涌的终点会遇到深圳天文台栈道的起点，沿着栈道可以直接上到天文台，这条栈道的视野极好，一大片海尽收眼底。站在栈道上，无论是面向大海的开阔，还是面相天文台的山坡，或者是面向两侧的半山半海，景色都是极美的，我在去过一次之后一直念念不忘，后面又去了很多次。
 
-<figure><img src="../.gitbook/assets/东西涌5.jpg" alt=""><figcaption><p>站在栈道上，无论从哪个角度看，风景都是绝美的，站在这里吹海风的感觉十分让人沉醉</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/东西涌5.jpg" alt=""><figcaption><p>站在栈道上，无论从哪个角度看，风景都是绝美的，站在这里吹海风的感觉十分让人沉醉</p></figcaption></figure>
 
 除了栈道的美景之外，对天文感兴趣的朋友也可以近观天文望远镜，好像有一点“红岸基地”的感觉？
 
-<figure><img src="../.gitbook/assets/东西涌6.jpg" alt=""><figcaption><p>右下角的图要是有个大雷达天线就很像红岸基地了</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/东西涌6.jpg" alt=""><figcaption><p>右下角的图要是有个大雷达天线就很像红岸基地了</p></figcaption></figure>
 
 ### 5、其他我还没体验的
 

@@ -1,5 +1,5 @@
 ---
-description: 作者：frank
+description: 作者：frank | 微信号：frankkk96
 cover: ../../.gitbook/assets/让子弹飞的鹅城.jpeg
 coverY: -126
 layout:

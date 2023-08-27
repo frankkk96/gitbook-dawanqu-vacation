@@ -41,7 +41,7 @@ _破边洲（英语：Po Pin Chau）是_[_香港_](https://zh.wikipedia.org/wiki
 
 ● 登山鞋+登山杖+饮用水（香港的比较贵建议在深圳买，路上有补给）
 
-● 两步路app搜索“白蜡村穿越破边洲”，提前预习并将轨迹导入手机，[这条轨迹](https://www.2bulu.com/track/t-ALFcJDuZUqbp%2FR2KBg5Tzw%3D%3D.htm)供参考（不建议新手自行前往）
+● 两步路app搜索“白蜡村穿越破边洲”，提前预习并将轨迹导入手机，[这条轨迹](https://www.2bulu.com/track/t-ALFcJDuZUqbp%2FR2KBg5Tzw%3D%3D.htm)供参考（有徒步经验就可以冲，路不难走）
 
 #### **行程安排**
 

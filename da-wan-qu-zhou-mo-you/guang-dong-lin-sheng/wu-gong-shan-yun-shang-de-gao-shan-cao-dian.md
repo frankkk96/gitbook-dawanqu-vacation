@@ -1,6 +1,6 @@
 ---
 description: 作者：frank | 微信号：frankkk96
-cover: ../.gitbook/assets/image (12).png
+cover: ../../.gitbook/assets/image (12).png
 coverY: 65
 layout:
   cover:
@@ -31,7 +31,7 @@ layout:
 * 季节与天气：夏天有绿色草原，冬天更容易看到云海
 * 主要体验点：大片高山草甸，山顶观日出+云海，盘山栈道，山顶音乐节
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>为了方便查找对应位置，这里先放一张地图供参考；以观音宕为分界点，往发云界方向为未开发路段（但路很好走），往金顶方向为景区路段</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>为了方便查找对应位置，这里先放一张地图供参考；以观音宕为分界点，往发云界方向为未开发路段（但路很好走），往金顶方向为景区路段</p></figcaption></figure>
 
 ## 体验点
 
@@ -39,31 +39,31 @@ layout:
 
 武功山最广为人知的特点就是高山草甸了，这部分景观的精华部分是反穿路线中发云界->观音宕的部分，常规的游客路线大多是往金顶方向，我们这次的路线是往观音宕方向的（后面会详细介绍，比反穿轻松很多，也能看到许多高山草甸）
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>分别是吊马桩（左上），金顶（右上），观音宕（左下），观音宕往发云界方向（右下）</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>分别是吊马桩（左上），金顶（右上），观音宕（左下），观音宕往发云界方向（右下）</p></figcaption></figure>
 
 观音宕往金顶方向一路上开发程度比较高，偏游客路线，人多且不那么原生态；往发云界方向开发较少，基本都是野路（但很好走），人少且更加原生态一些。
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>左边是吊马桩的路，会有栈道台阶，右边是观音宕往发云界方向的路，没有人工修建</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>左边是吊马桩的路，会有栈道台阶，右边是观音宕往发云界方向的路，没有人工修建</p></figcaption></figure>
 
 ### 2、**山顶观日出+云海**
 
 武功山的日出和云海也是一大特点，但云海主要在较冷的季节出现，夏天比较难遇到（除非是遇到下大雨的时候）
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>左图日出还挺好看的，不过云海就只看到右图远处的一点点</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>左图日出还挺好看的，不过云海就只看到右图远处的一点点</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>网上找了两张云海日出的图供参考</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>网上找了两张云海日出的图供参考</p></figcaption></figure>
 
 ### 3、**盘山栈道**
 
 这条栈道是吊马桩前往观音宕的路线，沿着山腰修建，延绵了好几公里（还有很长一段是玻璃栈道），我个人挺喜欢这条路的，一路可以看到很多不同的风景
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>值得走一下</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>值得走一下</p></figcaption></figure>
 
 ### 4、**山顶音乐节**
 
 在观音宕有一个舞台，晚上会有篝火音乐节，其实就是山顶蹦迪，在一个户外天堂遇到这样的活动，也是一种别样的体验吧
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>大学生们精力真好，大晚上闹麻了</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>大学生们精力真好，大晚上闹麻了</p></figcaption></figure>
 
 ### 拓展体验点
 
@@ -71,13 +71,13 @@ layout:
 
 我没体验住帐篷，据说晚上会很冷很吵，右边这种小木屋挺舒服的，有独立卫浴、空调和暖风机。主要看是想体验户外，还是玩的更舒服一点了
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>这两个地方都在观音宕</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>这两个地方都在观音宕</p></figcaption></figure>
 
 ### 2、**直升机上下山**
 
 富哥的专属体验，据说单人价格是880，在观音宕和金顶都可以乘坐
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>观音宕的直升机场</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>观音宕的直升机场</p></figcaption></figure>
 
 ### 详细攻略
 

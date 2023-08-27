@@ -33,6 +33,8 @@ _破边洲（英语：Po Pin Chau）是_[_香港_](https://zh.wikipedia.org/wiki
 
 <figure><img src="../../.gitbook/assets/下载 (7).jpg" alt=""><figcaption><p>全程都是这样的景色，拍照停不下来了都</p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>路线不难，爬升只有400不到，且均为山脊线</p></figcaption></figure>
+
 ### 详细攻略
 
 #### **需要提前准备的**
